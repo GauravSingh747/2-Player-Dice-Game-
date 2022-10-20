@@ -1,1 +1,1 @@
-# 2-Player-Dice-Game-
+# Dice-Game
